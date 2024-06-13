@@ -1,5 +1,11 @@
 # [Bronze V] 꼬마 정민 - 11382 
 
+### 개인 메모
+
+1. 자료형 Long -> 조건(1 ≤ A, B, C ≤ 10^12)
+
+##
+
 [문제 링크](https://www.acmicpc.net/problem/11382) 
 
 ### 성능 요약
