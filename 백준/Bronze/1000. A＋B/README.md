@@ -1,9 +1,11 @@
 # [Bronze V] A+B - 1000 
 
-## 개인 메모
+### 개인 메모
 
 1. psvm 잊지 말자!
 2. Scanner 개념
+
+##
 
 [문제 링크](https://www.acmicpc.net/problem/1000) 
 
