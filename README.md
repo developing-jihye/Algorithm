@@ -37,6 +37,9 @@
         *  flush() 메서드를 호출하면 현재 버퍼에 있는 모든 데이터가 강제로 출력됨
     * readLine() 메서드
         * 스트림에서 한 줄을 읽어서 문자열로 반환. 예외 처리 필수
+    * InputStreamReader
+        * 주어진 바이트 입력 스트림(InputStream)을 문자 입력 스트림(Reader)로 변환
+        * 바이트 스트림은 데이터를 바이트 단위로 읽어오는 반면, 문자 스트림은 데이터를 문자 단위로 읽어옴
 
 * StringTokenizer: 문자열을 지정된 구분자를 기준으로 분리. 문자열을 토큰(token)으로 분할
     * StringTokenizer(String str): 공백을 구분자로 사용하여 문자열을 토큰으로 분할
